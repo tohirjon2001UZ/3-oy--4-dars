@@ -1,7 +1,3 @@
-// function declaration
-// function expressionda
-// arrow functionda
-
 // 1-misol
 
 // ----------------------------- function declaration ------------------------------------------
