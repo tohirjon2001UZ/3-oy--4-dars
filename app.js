@@ -98,6 +98,9 @@
 // let lastName=prompt("Familyangizni kiriting: ")
 // fullName(firstName , lastName)
 
+
+// 5-misol
+
 // ----------------------------- function declaration ------------------------------------------
 // function rectanglePerimeter(length, width){
 //     alert(`${(length+width)*2}`)
